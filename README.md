@@ -215,19 +215,11 @@ Developing a strong foundation in computer science through academic coursework, 
 
 ### AWS
 
-![AWS](https://img.shields.io/badge/AWS-Certification-6D28D9?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certification-4C1D95?style=for-the-badge\&logo=oracle\&logoColor=white)
+![AWS](AWS_Academy_Graduate___Cloud_Architecting___Training_Badge_Badge20251121-29-61l0p9)
 
 ### NPTEL
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-Certification-312E81?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Certification-1E3A8A?style=for-the-badge\&logo=cisco\&logoColor=white)
 
 ---
 
